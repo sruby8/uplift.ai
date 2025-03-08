@@ -1,4 +1,4 @@
-# muffin69
+# uplift.ai
 my fun muffin stuff
 #
 this repo will be used to store things that Tyler Gregory doesnt like
